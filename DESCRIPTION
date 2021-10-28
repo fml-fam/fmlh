@@ -2,7 +2,7 @@ Package: fmlh
 Type: Package
 Title: Fused Matrix Library Headers
 Version: 0.4-0
-Description: fml' is the Fused Matrix Library, a multi-source, header-only C++ library
+Description: 'fml' is the Fused Matrix Library, a multi-source, header-only C++ library
     for dense matrix computing. The emphasis is on real-valued matrix types
     for numerical operations useful for data analysis.
 License: BSL-1.0
