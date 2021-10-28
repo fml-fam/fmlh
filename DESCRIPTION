@@ -8,6 +8,8 @@ Description: fml' is the Fused Matrix Library, a multi-source, header-only C++ l
 License: BSL-1.0
 Depends:
     R (>= 3.6.0)
+Imports:
+    tools
 ByteCompile: yes
 Authors@R: c(
     person("Drew", "Schmidt", role=c("aut", "cre"), email="wrathematics@gmail.com")
