@@ -1,6 +1,6 @@
 # fmlh
 
-* **Version:** 0.4-1
+* **Version:** 0.4-2
 * **License:** [BSL-1.0](http://opensource.org/licenses/BSL-1.0)
 * **Project home**: https://github.com/fml-fam/fmlh
 * **Bug reports**: https://github.com/fml-fam/fmlh/issues
